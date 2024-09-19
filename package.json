@@ -1,12 +1,12 @@
 {
-  "gitRepoUrl": "https://github.com/xjh22222228/nav",
+  "gitRepoUrl": "https://github.com/SomePe/nav",
   "provider": "Github",
   "branch": "main",
   "hashMode": true,
   "address": "",
   "password": "admin",
   "port": 7777,
-  "email": "",
+  "email": "1293904116@qq.com",
   "mailConfig": {
     "host": "smtp.mxhichina.com",
     "port": 465,
